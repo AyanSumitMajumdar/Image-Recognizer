@@ -1,0 +1,15 @@
+body{
+    color:black;
+    background:aqua;   
+   }
+   
+   .heading{
+   width:80%;
+   font-size:22px;    
+   }
+   
+   #camera{
+   border:2px dashed blank;
+   width:350px;
+   height:350px;
+   }
